@@ -1,0 +1,9 @@
+{
+  "name": "nvidia-nim-openai-proxy-vercel",
+  "version": "1.0.0",
+  "description": "OpenAI-compatible proxy for NVIDIA NIM DeepSeek models on Vercel",
+  "main": "api/index.js",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
